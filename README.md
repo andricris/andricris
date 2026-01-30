@@ -81,10 +81,11 @@ Saya fokus pada **data analytics** dan **data storytelling** untuk membantu bisn
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=andricris&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&cache_seconds=21600" alt="GitHub Stats" height="170"/>
-<img src="https://streak-stats.demolab.com?user=andricris&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" height="170"/>
+| GitHub Stats | GitHub Streak |
+| --- | --- |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andricris&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF) | ![GitHub Streak](https://streak-stats.demolab.com?user=andricris&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF) |
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andricris&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" height="150"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andricris&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
 
 </div>
 
