@@ -1,38 +1,41 @@
 <div align="center">
 
-# Hey there! 👋 I'm **Andri Cris**
+# 👋 Halo, saya **Andri Cris**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Data+Enthusiast+%F0%9F%9A%80;Exploring+Data%2C+One+Line+at+a+Time;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
+**Data Enthusiast · Analyst · Storyteller**
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=720&lines=Mengubah+data+menjadi+insight+bernilai;Exploring+Data%2C+One+Line+at+a+Time;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
 
 <img src="https://avatars.githubusercontent.com/u/20876579?v=4" width="180" style="border-radius: 50%;" alt="andricris"/>
 
-[![Website](https://img.shields.io/badge/🌐_Website-andri--land.biz.id-00D9FF?style=for-the-badge&logoColor=white)](https://andri-land.biz.id/)
+[![Website](https://img.shields.io/badge/🌐_Portfolio-andri--land.biz.id-00D9FF?style=for-the-badge&logoColor=white)](https://andri-land.biz.id/)
 [![GitHub](https://img.shields.io/badge/GitHub-andricris-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andricris)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## ✨ Tentang Saya
 
-```python
-class DataEnthusiast:
-    def __init__(self):
-        self.name = "Andri Cris"
-        self.role = "Data Enthusiast"
-        self.language_spoken = ["id_ID", "en_US"]
-        self.current_focus = "Exploring the world of data"
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's connect and build something amazing together!")
+Saya fokus pada **data analytics** dan **data storytelling** untuk membantu bisnis mengambil keputusan yang lebih tepat. Saya suka membangun dashboard yang rapi, insight yang actionable, dan workflow data yang efisien.
 
-me = DataEnthusiast()
-me.say_hi()
-```
+> _"Data yang baik bukan hanya rapi, tapi juga berdampak."_
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🧭 Portfolio Highlight
+
+> Jelajahi detail lengkap di **[andri-land.biz.id](https://andri-land.biz.id/)**
+
+- **Dashboard & Reporting** — merapikan metrik inti agar cepat dibaca dan mudah dipresentasikan.
+- **Exploratory Data Analysis (EDA)** — menemukan pola, anomali, dan peluang yang tersembunyi.
+- **Data Automation** — pipeline sederhana untuk mempercepat proses analisis.
+- **Visualization & Storytelling** — visual yang enak dilihat dan mudah dipahami.
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -61,7 +64,7 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Highlights
 
 <div align="center">
 
@@ -74,7 +77,7 @@ me.say_hi()
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Fokus Saat Ini
 
 - 📊 Advanced Data Analytics & Business Intelligence
 - 🤖 Machine Learning & AI Fundamentals
@@ -83,21 +86,22 @@ me.say_hi()
 
 ---
 
-## 🎯 Goals for 2025
+## 🎯 Target 2025
 
-- [ ] Contribute to open-source data projects
-- [ ] Build impactful data analysis portfolios
-- [ ] Master advanced SQL techniques
-- [ ] Learn cloud data platforms (AWS/GCP/Azure)
+- [ ] Berkontribusi pada proyek data open-source
+- [ ] Membangun portfolio analisis data yang impactful
+- [ ] Mendalami advanced SQL
+- [ ] Mengeksplorasi cloud data platform (AWS/GCP/Azure)
 
 ---
 
-## 💬 Let's Connect!
+## 💬 Let’s Connect
 
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Website-andri--land.biz.id-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://andri-land.biz.id/)
 [![GitHub](https://img.shields.io/badge/GitHub-andricris-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andricris)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
 </div>
 
