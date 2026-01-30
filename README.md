@@ -22,6 +22,19 @@ Saya fokus pada **data analytics** dan **data storytelling** untuk membantu bisn
 
 > _"Data yang baik bukan hanya rapi, tapi juga berdampak."_
 
+### ✅ Yang Bisa Saya Bantu
+
+- **Dashboard KPI & Executive Summary** yang mudah dibaca dan siap presentasi.
+- **Data cleaning & transformasi** agar analisis lebih akurat dan konsisten.
+- **EDA & insight bisnis** untuk menemukan peluang pertumbuhan.
+- **Automasi laporan** supaya proses berulang jadi lebih cepat.
+
+### ⚡ Quick Facts
+
+- **Fokus:** Data Analytics, Business Intelligence, Data Visualization
+- **Bahasa:** Python, SQL
+- **Tools favorit:** Power BI, Jupyter, Google Colab
+
 ---
 
 ## 🧭 Portfolio Highlight
@@ -68,8 +81,8 @@ Saya fokus pada **data analytics** dan **data storytelling** untuk membantu bisn
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=andricris&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=andricris&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=andricris&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&cache_seconds=21600" alt="GitHub Stats" height="170"/>
+<img src="https://streak-stats.demolab.com?user=andricris&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" height="170"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andricris&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" height="150"/>
 
@@ -86,7 +99,7 @@ Saya fokus pada **data analytics** dan **data storytelling** untuk membantu bisn
 
 ---
 
-## 🎯 Target 2025
+## 🎯 Target 2026
 
 - [ ] Berkontribusi pada proyek data open-source
 - [ ] Membangun portfolio analisis data yang impactful
