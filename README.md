@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=120&section=header&text=Andri%20Cris&fontColor=ffffff&fontAlignY=35&animation=twinkling" width="100%"/>
-
 # 👋 Halo, saya **Andri Cris**
 
 **Data Enthusiast · Analyst · Storyteller**
