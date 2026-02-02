@@ -1,10 +1,12 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=120&section=header&text=Andri%20Cris&fontColor=ffffff&fontAlignY=35&animation=twinkling" width="100%"/>
+
 # 👋 Halo, saya **Andri Cris**
 
 **Data Enthusiast · Analyst · Storyteller**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=720&lines=Mengubah+data+menjadi+insight+bernilai;Exploring+Data%2C+One+Line+at+a+Time;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=720&lines=Mengubah+data+menjadi+insight+bernilai;Exploring+Data%2C+One+Line+at+a+Time;Always+Learning%2C+Always+Building;Data+Analytics+%7C+Visualization+%7C+Automation)](https://git.io/typing-svg)
 
 <img src="https://avatars.githubusercontent.com/u/20876579?v=4" width="180" style="border-radius: 50%;" alt="andricris"/>
 
@@ -21,6 +23,12 @@
 Saya fokus pada **data analytics** dan **data storytelling** untuk membantu bisnis mengambil keputusan yang lebih tepat. Saya suka membangun dashboard yang rapi, insight yang actionable, dan workflow data yang efisien.
 
 > _"Data yang baik bukan hanya rapi, tapi juga berdampak."_
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="240" alt="data animation"/>
+
+</div>
 
 ### ✅ Yang Bisa Saya Bantu
 
@@ -50,6 +58,24 @@ Saya fokus pada **data analytics** dan **data storytelling** untuk membantu bisn
 - 📍 Berdomisili di **Indonesia**
 
    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+
+#### ⚙️ Workflow
+- ✅ Data Cleaning → EDA → Insight
+- ✅ Dashboard KPI → Storytelling
+- ✅ Automation untuk laporan rutin
+
+    </td>
+    <td valign="top" width="50%">
+
+#### 📌 Fokus 2026
+- Advanced SQL & Data Modeling
+- Cloud Data Platform (AWS/GCP/Azure)
+- Open-source data project
+
+    </td>
   </tr>
 </table>
 
@@ -144,6 +170,8 @@ Saya fokus pada **data analytics** dan **data storytelling** untuk membantu bisn
 ---
 
 <div align="center">
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="120" alt="wave animation"/>
 
 ### 💡 *"Exploring the world of data, one line of code at a time."*
 
