@@ -4,7 +4,7 @@
 
 **Data Enthusiast · Analyst · Storyteller**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=720&lines=Mengubah+data+menjadi+insight+bernilai;Exploring+Data%2C+One+Line+at+a+Time;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=720&lines=Mengubah+data+menjadi+insight+bernilai;Exploring+Data%2C+One+Line+at+a+Time;Always+Learning%2C+Always+Building;Data+Analytics+%7C+Visualization+%7C+Automation)](https://git.io/typing-svg)
 
 <img src="https://avatars.githubusercontent.com/u/20876579?v=4" width="180" style="border-radius: 50%;" alt="andricris"/>
 
@@ -22,6 +22,12 @@ Saya fokus pada **data analytics** dan **data storytelling** untuk membantu bisn
 
 > _"Data yang baik bukan hanya rapi, tapi juga berdampak."_
 
+<div align="center">
+
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="240" alt="data animation"/>
+
+</div>
+
 ### ✅ Yang Bisa Saya Bantu
 
 - **Dashboard KPI & Executive Summary** yang mudah dibaca dan siap presentasi.
@@ -31,9 +37,45 @@ Saya fokus pada **data analytics** dan **data storytelling** untuk membantu bisn
 
 ### ⚡ Quick Facts
 
-- **Fokus:** Data Analytics, Business Intelligence, Data Visualization
-- **Bahasa:** Python, SQL
-- **Tools favorit:** Power BI, Jupyter, Google Colab
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+#### 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,sqlite,git,github,vscode,jupyter&perline=4" />
+</p>
+
+   </td>
+   <td valign="top" width="50%">
+
+#### 🌟 Highlights
+- 🔭 Saat ini membangun **dashboard analytics & automated reporting**
+- 🌱 Mempelajari **AI/ML Fundamentals & Data Visualization**
+- ⚡ Fun fact: **I love coffee & coding**
+- 📍 Berdomisili di **Indonesia**
+
+   </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+
+#### ⚙️ Workflow
+- ✅ Data Cleaning → EDA → Insight
+- ✅ Dashboard KPI → Storytelling
+- ✅ Automation untuk laporan rutin
+
+    </td>
+    <td valign="top" width="50%">
+
+#### 📌 Fokus 2026
+- Advanced SQL & Data Modeling
+- Cloud Data Platform (AWS/GCP/Azure)
+- Open-source data project
+
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -81,11 +123,15 @@ Saya fokus pada **data analytics** dan **data storytelling** untuk membantu bisn
 
 <div align="center">
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=andricris&theme=github-compact)
+
 | GitHub Stats | GitHub Streak |
 | --- | --- |
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andricris&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF) | ![GitHub Streak](https://streak-stats.demolab.com?user=andricris&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF) |
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andricris&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
+
+<img src="https://github-profile-trophy.vercel.app/?username=andricris&theme=onedark&no-frame=false&no-bg=false&margin-w=4" />
 
 </div>
 
@@ -123,10 +169,10 @@ Saya fokus pada **data analytics** dan **data storytelling** untuk membantu bisn
 
 <div align="center">
 
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="120" alt="wave animation"/>
+
 ### 💡 *"Exploring the world of data, one line of code at a time."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=andricris&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer" width="100%"/>
 
 </div>
