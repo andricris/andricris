@@ -177,6 +177,4 @@ Saya fokus pada **data analytics** dan **data storytelling** untuk membantu bisn
 
 ![Profile Views](https://komarev.com/ghpvc/?username=andricris&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer" width="100%"/>
-
 </div>
