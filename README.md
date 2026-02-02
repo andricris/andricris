@@ -31,9 +31,27 @@ Saya fokus pada **data analytics** dan **data storytelling** untuk membantu bisn
 
 ### ⚡ Quick Facts
 
-- **Fokus:** Data Analytics, Business Intelligence, Data Visualization
-- **Bahasa:** Python, SQL
-- **Tools favorit:** Power BI, Jupyter, Google Colab
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+#### 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,sqlite,git,github,vscode,jupyter&perline=4" />
+</p>
+
+   </td>
+   <td valign="top" width="50%">
+
+#### 🌟 Highlights
+- 🔭 Saat ini membangun **dashboard analytics & automated reporting**
+- 🌱 Mempelajari **AI/ML Fundamentals & Data Visualization**
+- ⚡ Fun fact: **I love coffee & coding**
+- 📍 Berdomisili di **Indonesia**
+
+   </td>
+  </tr>
+</table>
 
 ---
 
@@ -81,11 +99,15 @@ Saya fokus pada **data analytics** dan **data storytelling** untuk membantu bisn
 
 <div align="center">
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=andricris&theme=github-compact)
+
 | GitHub Stats | GitHub Streak |
 | --- | --- |
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andricris&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF) | ![GitHub Streak](https://streak-stats.demolab.com?user=andricris&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF) |
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andricris&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
+
+<img src="https://github-profile-trophy.vercel.app/?username=andricris&theme=onedark&no-frame=false&no-bg=false&margin-w=4" />
 
 </div>
 
