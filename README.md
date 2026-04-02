@@ -2,7 +2,7 @@
 
 # 👋 Halo, saya **Andri Cris**
 
-**Data Enthusiast · Analyst · Storyteller**
+**Data Enthusiast · Analyst**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=720&lines=Mengubah+data+menjadi+insight+bernilai;Exploring+Data%2C+One+Line+at+a+Time;Always+Learning%2C+Always+Building;Data+Analytics+%7C+Visualization+%7C+Automation)](https://git.io/typing-svg)
 
@@ -18,7 +18,7 @@
 
 ## ✨ Tentang Saya
 
-Saya fokus pada **data analytics** dan **data storytelling** untuk membantu bisnis mengambil keputusan yang lebih tepat. Saya suka membangun dashboard yang rapi, insight yang actionable, dan workflow data yang efisien.
+Saya fokus pada **data analytics** dan **komunikasi insight data** untuk membantu bisnis mengambil keputusan yang lebih tepat. Saya suka membangun dashboard yang rapi, insight yang actionable, dan workflow data yang efisien.
 
 > _"Data yang baik bukan hanya rapi, tapi juga berdampak."_
 
@@ -62,7 +62,7 @@ Saya fokus pada **data analytics** dan **data storytelling** untuk membantu bisn
 
 #### ⚙️ Workflow
 - ✅ Data Cleaning → EDA → Insight
-- ✅ Dashboard KPI → Storytelling
+- ✅ Dashboard KPI → Insight Delivery
 - ✅ Automation untuk laporan rutin
 
     </td>
@@ -86,7 +86,7 @@ Saya fokus pada **data analytics** dan **data storytelling** untuk membantu bisn
 - **Dashboard & Reporting** — merapikan metrik inti agar cepat dibaca dan mudah dipresentasikan.
 - **Exploratory Data Analysis (EDA)** — menemukan pola, anomali, dan peluang yang tersembunyi.
 - **Data Automation** — pipeline sederhana untuk mempercepat proses analisis.
-- **Visualization & Storytelling** — visual yang enak dilihat dan mudah dipahami.
+- **Visualization & Insight Communication** — visual yang enak dilihat dan mudah dipahami.
 
 ---
 
