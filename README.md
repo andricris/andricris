@@ -2,7 +2,7 @@
 
 # 👋 Halo, saya **Andri Cris**
 
-**Data Enthusiast · Analyst**
+**Data Enthusiast**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=720&lines=Mengubah+data+menjadi+insight+bernilai;Exploring+Data%2C+One+Line+at+a+Time;Always+Learning%2C+Always+Building;Data+Analytics+%7C+Visualization+%7C+Automation)](https://git.io/typing-svg)
 
