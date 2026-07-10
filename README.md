@@ -81,7 +81,7 @@ Saya fokus pada **data analytics** dan **komunikasi insight data** untuk membant
 
 ## 🧭 Portfolio Highlight
 
-> Jelajahi detail lengkap di **[andri-land.biz.id](https://andri-land.biz.id/)**
+> Jelajahi detail lengkap di **[https://andriland.com/](https://andriland.com/)**
 
 - **Dashboard & Reporting** — merapikan metrik inti agar cepat dibaca dan mudah dipresentasikan.
 - **Exploratory Data Analysis (EDA)** — menemukan pola, anomali, dan peluang yang tersembunyi.
